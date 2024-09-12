@@ -10,6 +10,7 @@ I am proficient in the following programming languages:
 HTML
 C
 Python
+
 🎓 Educational Background
 I hold a degree in Law from the University of Nairobi and a Post Graduate Diploma in Law from the Kenya School of Law. Additionally, I am a Certified Professional Mediator from Devlui-ADR and Mediation Hub.
 
